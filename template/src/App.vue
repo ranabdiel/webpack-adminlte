@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+  <h1>Adminlte</h1>
     <img src="./assets/logo.png">
     {{#router}}
     <router-view/>
